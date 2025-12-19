@@ -8,9 +8,9 @@ import uuid
 
 import os
 
-API_ID = 35341018
-API_HASH = "c98e5177a3e1d3df757bd53816566303"
-BOT_TOKEN = "8377620232:AAEHHQ_PRTMKwFmxPXR8ZAT3_6_b9sYEZ1I"
+API_ID = 34636531
+API_HASH = "b39488633742b369b8a9fc854980f68b"
+BOT_TOKEN = "8456919952:AAEh4G23a_1uuqbAetC7SVXUeOATcUndpYg"
 
 ADMIN_ID = 8576169211
 
@@ -101,6 +101,7 @@ async def store_message(client, message):
 
 print("Bot is running...")
 app.run()
+
 
 
 
