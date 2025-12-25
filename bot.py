@@ -8,11 +8,11 @@ import uuid
 
 import os
 
-API_ID = 34636531
-API_HASH = "b39488633742b369b8a9fc854980f68b"
-BOT_TOKEN = "8456919952:AAEh4G23a_1uuqbAetC7SVXUeOATcUndpYg"
+API_ID = 36001520
+API_HASH = "1dec0f6809024516068a0fbb92d6dc55"
+BOT_TOKEN = "8028378886:AAFQj1E2H8CeeBEgFGkyCFlZoYeVLIL6UU4"
 
-ADMIN_ID = 8576169211
+ADMIN_ID = 7945454951
 
 DB_FILE = "messages.json"
 # -------- DATABASE --------
@@ -101,6 +101,7 @@ async def store_message(client, message):
 
 print("Bot is running...")
 app.run()
+
 
 
 
