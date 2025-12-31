@@ -7,11 +7,11 @@ import uuid
 
 # ------------- CONFIG ----------------
 
-API_ID = 36001520
-API_HASH = "1dec0f6809024516068a0fbb92d6dc55"
-BOT_TOKEN = "8028378886:AAFQj1E2H8CeeBEgFGkyCFlZoYeVLIL6UU4"
+API_ID = 33532637
+API_HASH = "327730e12ebe3955900dbeea18d847ed"
+BOT_TOKEN = "8353055133:AAEQB5JoQD4obQcbEnTnN5jSoYbD-Yk52HQ"
 
-ADMIN_ID = 7945454951
+ADMIN_ID = 8403156562
 
 DB_FILE = "messages.json"
 # -------- DATABASE --------
@@ -179,3 +179,4 @@ async def admin_text_handler(client, message):
 
 print("Bot is running...")
 app.run()
+
